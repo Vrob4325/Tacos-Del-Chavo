@@ -1,0 +1,7 @@
+idInventario,idProducto,stockActual,stockMinimo,proveedor
+1,1,250,100,Tortillería La Guadalupana
+2,2,180,100,Tortillería La Guadalupana
+3,3,45,30,Distribuidora Los Mochis
+4,4,28,20,Distribuidora Los Mochis
+5,5,85,40,Comercial Sinaloa
+6,6,35,15,Varios

@@ -1,0 +1,5 @@
+nombre,apellido,correo,celular,TipoCliente
+Juan,Pérez,juan@email.com,6681234567,Regular
+María,González,maria@email.com,6689876543,Evento
+Carlos,López,carlos@email.com,6685551234,VIP
+Ana,Martínez,ana@email.com,6687778899,Regular
